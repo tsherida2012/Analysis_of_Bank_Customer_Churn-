@@ -1,3 +1,4 @@
+![Bank Picture](bank_pic.jpg)
 # Final Report on Analysis of Bank Customer Churn at Bailey’s Bank
 
 ## Introduction
